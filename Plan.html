@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
  <link rel="stylesheet" href="style.css">
-      <link rel="stylesheet" href="hero.css">
+      <script src="script.js" defer></script>
     <style>
 
        .hero{
@@ -645,39 +645,7 @@
                 opacity: 0.7;
             }
 
-            .rankings-menu {
-                width: 100%;
-                padding: 0;
-                display: flex;
-                flex-direction: column;
-                gap: 0;
-                overflow-x: visible;
-                background: rgba(0,0,0,0.1);
-            }
-
-            .rankings-item {
-                display: flex;
-                align-items: center;
-                padding: 12px;
-                text-decoration: none;
-                color: var(--foreground);
-                font-size: 13px;
-                font-weight: 500;
-                transition: all 0.2s ease;
-                border-radius: 0;
-                white-space: nowrap;
-                flex-shrink: 0;
-                width: 100%;
-                border-bottom: 1px solid rgba(0,0,0,0.1);
-            }
-
-            .rankings-item:hover {
-                background: rgba(0,0,0,0.15);
-            }
-
-            .rankings-item:last-child {
-                border-bottom: none;
-            }
+            
         }
 
         @media (max-width: 640px) {
@@ -729,40 +697,11 @@
                 grid-template-columns: 1fr;
             }
 
-            .rankings-menu {
-                width: 100%;
-            }
+           
         }
-        footer {
-    background-color: var(--primary); 
-    color: #ffffff;
-    padding: 60px 10% 30px 10%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-
-.footer-grid {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    gap: 40px;
-}
-
-.footer-section {
-    flex: 1;
-    min-width: 200px;
-}
-
-/* Brand Section */
-.footer-logo {
-    width: 240px; /* Increased size to match the image */
-    height: auto;
-    display: block;
-    margin-bottom: 25px;
-    object-fit: contain;
-}
-
+      .footer-section h4{
+        color:white;
+      }
     </style>
 </head>
 <body>
@@ -774,10 +713,6 @@
 <img src="https://asoiu.edu.az/public/user/assets/img/nav_Logo_b.png" alt="ASOIU Logo">
 </div>
 
-<div class="logo-text">
-<h1>ASOIU</h1>
-<p>Sustainability</p>
-</div>
 
 </a>
 
@@ -794,29 +729,30 @@
 
 </header>
 
-    <nav class="navbar-main">
+  
+   <nav class="navbar-main">
         <div class="navbar-rows">
             <div class="navbar-row top">
-                <a href="Plan.html" class="nav-link">Plan</a>
-                <a href="strategy.html" class="nav-link">Strategy</a>
-                <a href="education.html" class="nav-link">Education</a>
-                <a href="research.html" class="nav-link">Research</a>
-                <a href="comitee.html" class="nav-link">Committee</a>
-                <a href="activities.html" class="nav-link">Activities</a>
+                <a href="/Plan.html" class="nav-link">Plan</a>
+                <a href="/strategy.html" class="nav-link">Strategy</a>
+                <a href="/education.html" class="nav-link">Education</a>
+                <a href="/research.html" class="nav-link">Research</a>
+                <a href="/comitee.html" class="nav-link">Committee</a>
+                <a href="/activities.html" class="nav-link">Activities</a>
                 <a href="/Pilicies/policies.html" class="nav-link">Policies</a>
             </div>
 
             <div class="navbar-row">
-                <a href="trainings.html" class="nav-link">Trainings</a>
-                <a href="alumni.html" class="nav-link">Alumni</a>
-                <a href="assesment.html" class="nav-link">Assessment</a>
+                <a href="/trainings.html" class="nav-link">Trainings</a>
+                <a href="/alumni.html" class="nav-link">Alumni</a>
+                <a href="/assesment.html" class="nav-link">Assessment</a>
 
                 <div class="dropdown">
                     <button class="nav-link dropdown-trigger" id="sdgBtn">SDG's at ASOIU</button>
                     <div class="dropdown-menu sdg-menu" id="sdgMenu">
                         <div class="sdg-grid" id="sdgGrid"></div>
                         <div class="sdg-footer">
-                            <a href="all_sdgs.html">View All SDGs</a>
+                            <a href="/all_sdgs.html">View All SDGs</a>
                         </div>
                     </div>
                 </div>
@@ -832,6 +768,7 @@
             </div>
         </div>
     </nav>
+
     
 
     <!-- Hero Section -->
@@ -1598,7 +1535,7 @@
 
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4">
 
-                        <div class="footer-section marg">
+                        <div class="footer-section">
                             <h4>Quick links</h4>
                             <ul>
                                 <li><a href="#">News</a></li>
@@ -1608,7 +1545,7 @@
 
 
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4">
-                        <div class="footer-section contact-info">
+                        <div class="footer-section ">
                             <h4>Contact</h4>
                             <ul>
                                 <li><i class="fas fa-map-marker-alt"></i> Baku, Azadliq Avenue, 20</li>
@@ -1620,12 +1557,6 @@
                         </div>
                     </div>
                 </div>
-
-
-
-
-
-
 
             </div>
         </div>
@@ -1719,10 +1650,7 @@
       
 
         // Initialize everything on page load
-        document.addEventListener('DOMContentLoaded', () => {
-            initSDGGrid();
-            setupDropdowns();
-        });
+        
     </script>
 </body>
 </html>
