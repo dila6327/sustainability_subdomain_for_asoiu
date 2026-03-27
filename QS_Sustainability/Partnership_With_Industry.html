@@ -3,209 +3,335 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Partnership With Industry</title>
+    <style>
+    /* HEALTH & ACTIVITIES GRID */
+    .partnership-section-container {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .partnership-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+    }
+
+    .partnership-card {
+        background: #1a4d57; /* Matches the teal in your image */
+        border-radius: 12px;
+        padding: 25px;
+        color: white;
+        transition: transform 0.3s ease, background 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 280px;
+        animation: fadeIn 0.4s ease;
+    }
+
+    .partnership-card:hover {
+        transform: translateY(-5px);
+        background: #235d68;
+        border-color: #ffc107; /* Subtle yellow glow on hover */
+    }
+
+    .card-meta {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #ffc107; /* Yellow accent */
+        margin-bottom: 15px;
+    }
+
+    .card-meta i {
+        background: rgba(0, 0, 0, 0.2);
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+
+    .partnership-card h3 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        line-height: 1.3;
+    }
+
+    .partnership-card p {
+        font-size: 14px;
+        color: #cfd8dc;
+        line-height: 1.6;
+        margin-bottom: 20px;
+        flex-grow: 1;
+    }
+
+    @keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+    .learn-more-link {
+        color: #ffc107;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .learn-more-link:hover {
+        text-decoration: underline;
+    }
+
+    /* RESPONSIVE STYLES */
+    @media (max-width: 768px) {
+        .partnership-grid {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            padding: 0;
+        }
+
+        .partnership-card {
+            padding: 20px;
+            min-height: 250px;
+        }
+
+        .partnership-card h3 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+
+        .partnership-card p {
+            font-size: 13px;
+        }
+
+        .card-meta {
+            font-size: 11px;
+        }
+
+        .card-meta i {
+            width: 28px;
+            height: 28px;
+            font-size: 12px;
+        }
+
+        .learn-more-link {
+            font-size: 13px;
+        }
+
+        h1.title {
+            font-size: 28px;
+        }
+
+        p.text {
+            font-size: 15px;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .partnership-section-container {
+            padding: 0 10px;
+        }
+
+        .partnership-grid {
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        .partnership-card {
+            padding: 18px;
+            min-height: 200px;
+        }
+
+        .partnership-card h3 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .partnership-card p {
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+
+        .card-meta {
+            gap: 8px;
+            font-size: 10px;
+            margin-bottom: 12px;
+        }
+
+        .card-meta i {
+            width: 26px;
+            height: 26px;
+            font-size: 11px;
+        }
+
+        .learn-more-link {
+            font-size: 12px;
+            gap: 6px;
+        }
+
+        h1.title {
+            font-size: 22px;
+            margin-top: 15px;
+        }
+
+        p.text {
+            font-size: 13px;
+        }
+    }
+</style>
+
 </head>
 <body>
-    <section class="max-w-7xl mx-auto px-6 py-10">
+    
 
-<!-- Breadcrumb -->
-<p class="text-[11px] text-[#7ab5c5] mb-3 flex items-center gap-1.5 flex-wrap">
-<span>Social Impact</span>
-<span>›</span>
-<span>Employability & Opportunities</span>
-<span>›</span>
-<span class="text-[#d4af37]">Partnerships with Industry</span>
+
+<h1 class="qs-sustainability-heading">Partnerships with Industry</h1>
+
+<div class="partnership-section-container">
+    <div class="partnership-grid">
+        
+        <div class="partnership-card">
+            <div>
+       
+                <h3>Halliburton</h3>
+                <p>Representatives from Halliburton, including the Vice-President for the Caspian region, toured UFAZ’s specialized scientific laboratories to evaluate the university's research infrastructure and high-tech educational facilities. The visit focused on establishing strategic cooperation in Chemical and Oil & Gas Engineering, specifically regarding advanced research initiatives, student internships, and global career placement opportunities.</p>
+            </div>
+            <a href="https://v1.ufaz.az/en/news/representative-of-halliburton-company-visited-ufaz-scientific-laboratories/
+" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/halliburton/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+        <div class="partnership-card">
+            <div>
+                <h3>Holcim</h3>
+                <p>ASOIU has established a strategic partnership with Holcim, a global leader in sustainable building solutions, through a formal cooperation agreement focused on integrating industrial expertise into academic programs. The collaboration emphasizes high-level internship placements for students and the alignment of university curricula with international business standards to support large-scale energy and construction projects.</p>
+            </div>
+              <a href="https://asoiu.edu.az/single_news/146" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/holcim/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+        <div class="partnership-card">
+            <div>
+                
+                <h3>TotalEnergies</h3>
+                <p>ASOIU and UFAZ have launched a prestigious co-funded scholarship program with TotalEnergies and the French Embassy, enabling top graduates to pursue Master’s degrees at elite French universities in strategic fields such as Artificial Intelligence, Sustainable Energy, and Water Engineering. This long-term cooperation includes full financial coverage for tuition and living expenses, directly supporting the development of national high-tier expertise and strengthening international academic mobility.</p>
+            </div>
+          <a href="https://asoiu.edu.az/single_news/1678" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/totalenergies/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+        
+
+        <div class="partnership-card">
+            <div>
+               
+                <h3>British Petroleum</h3>
+                <p>ASOIU has launched a landmark $2 million strategic partnership with bp to establish Azerbaijan’s first dedicated higher education degree in Renewable Energy Sources. This initiative, supported by the Ministry of Education and a UK university partner, focuses on developing a new generation of national engineers to lead the country’s energy transition and low-carbon future.</p>
+            </div>
+     <a href="https://www.bp.com/en_az/azerbaijan/home/news/press-releases/Founding-a-new-degree-in-renewable-energy-at-a-local-university.html" target="_blank" class="learn-more-link">Evidance from BP's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/bp/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+      <div class="partnership-card">
+            <div>
+               
+                <h3>Amazon</h3>
+                <p>
+ASOIU and UFAZ hosted a strategic career development seminar featuring a Senior Software Engineer from Amazon to provide students with a technical roadmap for entering the global labor market. The initiative focused on international recruitment standards, specialized interview preparation for Big Tech, and the alignment of student skills with the selection criteria of world-leading technology corporations.
 </p>
+            </div>
+     <a href="https://asoiu.edu.az/single_news/1672" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/amazon/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
 
-<!-- Title -->
-<h1 class="text-2xl md:text-[28px] font-bold text-white mb-3">
-Partnerships with Industry
-</h1>
+         <div class="partnership-card">
+            <div>
+                <h3>Microsoft</h3>
+                <p>ASOIU has strengthened its strategic collaboration with Microsoft to integrate licensed software solutions and advanced information resources directly into the university’s academic curriculum. The partnership focuses on expanding joint projects through the “eazi-START” Startup and Innovation Center and the AzII IT Academy, providing students and faculty with high-level digital tools and professional development opportunities.</p>
+            </div>
+           <a href="https://asoiu.edu.az/single_news/333" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/microsoft/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
 
-<p class="text-[#a8ccd8] text-[14px] max-w-3xl mb-6">
-ASOIU has established strategic partnerships with leading companies from the
-Forbes 2000 list. These collaborations include research initiatives,
-educational programs, and student development opportunities that prepare
-graduates for successful careers in global industries.
-</p>
+         <div class="partnership-card">
+            <div>
+               
+                <h3>Emerson Electric</h3>
+                <p>ASOIU’s Faculty of Information Technologies and Control (ITIF) hosted an industrial seminar led by experts from Emerson to provide students with advanced technical training on automated management systems, actuators, and industrial safety controllers. The session focused on the practical application of control systems in heavy industry, bridging the gap between theoretical engineering and the high-tech operational standards used by global technology leaders.</p>
+            </div>
+              <a href="https://asoiu.edu.az/single_news/2993?utm_source" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/emerson-electric/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+        
+              <div class="partnership-card">
+            <div>
+               
+                <h3>Alstom</h3>
+                <p>ASOIU and UFAZ have signed a formal Memorandum of Understanding with global industrial leaders Alstom and SLB (Schlumberger) to establish a framework for professional cooperation and entrepreneurship development. This high-level agreement, supported by the French Business Confederation (MEDEF), focuses on bridging the gap between academic training and the international labor market through direct industry engagement and strategic networking.</p>
+            </div>
+              <a href="https://www.mektebgushesi.az/2019/07/10/ufaz-il%C9%99-alstom-v%C9%99-schlumberger-sirk%C9%99tl%C9%99ri-arasinda-%C9%99m%C9%99kdasliq-memorandumu-imzalanib/" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/alstom/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
 
-<!-- Search -->
-<div class="mb-8">
-<div class="relative">
 
-<input
-type="text"
-placeholder="Search by company name, country, or partnership type..."
-class="w-full pl-10 pr-4 py-3 bg-[#11465a]/50 border border-[#2a6e80]/40 rounded-lg text-white text-sm placeholder-[#7ab5c5] focus:outline-none focus:border-[#d4af37]"
->
+          <div class="partnership-card">
+            <div>
+               
+                <h3>Baker Hughes</h3>
+                <p>ASOIU and the Azerbaijan Engineers Union hosted a "Career Day" featuring senior leadership from Baker Hughes to align student competencies with the recruitment standards of the global energy technology sector. The session provided direct engagement with the company’s country director, focusing on technological innovation projects, international internship frameworks, and the specialized skill sets required for success in the evolving global labor market.</p>
+            </div>
+              <a href="https://asoiu.edu.az/single_news/3359?utm_source" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/baker-hughes-company/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
 
+
+          <div class="partnership-card">
+            <div>
+               
+                <h3>Canon</h3>
+                <p>ASOIU has partnered with DiVi, the regional representative of Canon, to integrate cutting-edge technological infrastructure into the university’s specialized IT and research departments. This collaboration focuses on equipping the university with advanced technical resources to support its transition into a modern research-driven institution, ensuring that both faculty and students have access to the latest global industry hardware and digital imaging solutions.</p>
+            </div>
+              <a href="https://www.mektebgushesi.az/2020/11/26/adnsu-%C9%99n-muasir-texniki-imkanlara-malik-sirk%C9%99tl%C9%99rl%C9%99-%C9%99m%C9%99kdasliga-ustunluk-verir/" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/canon/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+       
+
+        <div class="partnership-card">
+            <div>
+               
+                <h3>Coca Cola</h3>
+                <p>ASOIU hosted Coca-Cola Azerbaijan for a strategic recruitment session to launch a paid Management Trainee Program, providing senior students and recent graduates with professional residency and hands-on experience in solving complex operational challenges within the global Fast-Moving Consumer Goods (FMCG) sector.</p>
+            </div>
+              <a href="https://asoiu.edu.az/single_news/880" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/coca-cola/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="partnership-card">
+            <div>
+               
+                <h3>Hewlett Packart Enterprice</h3>
+                <p>ASOIU has initiated a strategic partnership with HP to establish a high-tier talent pipeline, focusing on recruiting top graduates from the university's IT Academy and the Faculty of Information Technologies and Control for global career opportunities. The collaboration leverages ASOIU’s world-standard curriculum and specialized IT training programs to align student competencies with the international recruitment criteria of world-leading technology corporations.</p>
+            </div>
+              <a href="https://asoiu.edu.az/single_news/76" target="_blank" class="learn-more-link">Evidance from ASOIU's Webpage <i class="fas fa-external-link-alt"></i></a>
+            <a href="https://www.forbes.com/companies/hewlett-packard-enterprise/?list=global2000" class="learn-more-link" target="_blank">Evidance from Forbes's website <i class="fas fa-external-link-alt"></i></a>
+        </div>
+    </div>
 </div>
-</div>
-
-<!-- MAIN GRID -->
-<div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-
-<!-- LEFT COMPANY LIST -->
-<div class="lg:col-span-1">
-
-<div class="rounded-lg border border-[#2a6e80]/40 bg-[#11465a]/50 overflow-hidden h-[650px] flex flex-col">
-
-<!-- Header -->
-<div class="sticky top-0 bg-[#0d3b4a] px-4 py-3 border-b border-[#2a6e80]/40">
-<p class="text-[11px] font-bold text-[#d4af37] uppercase tracking-wider">
-Forbes 2000 Partners (14)
-</p>
-</div>
-
-<!-- Scroll List -->
-<div class="overflow-y-auto flex-1 divide-y divide-[#2a6e80]/30">
-
-<!-- ITEM -->
-<button class="w-full text-left px-4 py-3 bg-[#1a5d6e] border-l-4 border-[#d4af37]">
-<p class="font-semibold text-white text-[13px]">Halliburton</p>
-<p class="text-[#7ab5c5] text-[11px]">United States</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 641</p>
-</button>
-
-<button class="w-full text-left px-4 py-3 hover:bg-[#0d3b4a]">
-<p class="font-semibold text-white text-[13px]">Holcim</p>
-<p class="text-[#7ab5c5] text-[11px]">Switzerland</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 289</p>
-</button>
-
-<button class="w-full text-left px-4 py-3 hover:bg-[#0d3b4a]">
-<p class="font-semibold text-white text-[13px]">TotalEnergies</p>
-<p class="text-[#7ab5c5] text-[11px]">France</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 41</p>
-</button>
-
-<button class="w-full text-left px-4 py-3 hover:bg-[#0d3b4a]">
-<p class="font-semibold text-white text-[13px]">BP</p>
-<p class="text-[#7ab5c5] text-[11px]">United Kingdom</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 421</p>
-</button>
-
-<button class="w-full text-left px-4 py-3 hover:bg-[#0d3b4a]">
-<p class="font-semibold text-white text-[13px]">Amazon</p>
-<p class="text-[#7ab5c5] text-[11px]">United States</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 5</p>
-</button>
-
-<button class="w-full text-left px-4 py-3 hover:bg-[#0d3b4a]">
-<p class="font-semibold text-white text-[13px]">Microsoft</p>
-<p class="text-[#7ab5c5] text-[11px]">United States</p>
-<p class="text-[#d4af37] text-[10px] mt-1">Forbes Rank: 9</p>
-</button>
-
-</div>
-</div>
-</div>
-
-<!-- RIGHT DETAILS -->
-<div class="lg:col-span-2 space-y-6">
-
-<!-- COMPANY CARD -->
-<div class="rounded-lg bg-gradient-to-br from-[#0d3b4a] to-[#11465a]/60 border border-[#2a6e80]/40 p-8">
-
-<div class="flex justify-between items-start mb-4">
-
-<div>
-<h2 class="text-2xl font-bold text-white mb-1">
-Halliburton
-</h2>
-<p class="text-[#7ab5c5] text-sm">United States</p>
-</div>
-
-<div class="text-right">
-<p class="text-[11px] text-[#7ab5c5] uppercase">
-Forbes 2000
-</p>
-<p class="text-2xl font-bold text-[#d4af37]">
-#641
-</p>
-</div>
-
-</div>
-
-<div class="pt-4 border-t border-[#2a6e80]/40">
-<span class="inline-block bg-[#d4af37]/20 text-[#d4af37] px-3 py-1 rounded text-[12px] font-semibold">
-Scientific Partnership
-</span>
-</div>
-
-</div>
-
-<!-- OVERVIEW -->
-<div class="rounded-lg border border-[#2a6e80]/40 bg-[#11465a]/50 p-6">
-
-<h3 class="text-[14px] font-bold text-white mb-3 flex items-center gap-2">
-<span class="w-1 h-5 bg-[#d4af37] rounded"></span>
-Partnership Overview
-</h3>
-
-<p class="text-[13px] text-[#b8d4de] leading-relaxed">
-Halliburton has established scientific laboratory partnerships with ASOIU.
-These collaborations focus on research in energy extraction technologies,
-environmental management, and sustainable drilling practices.
-</p>
-
-</div>
-
-<!-- RESEARCH -->
-<div class="rounded-lg border border-[#2a6e80]/40 bg-[#11465a]/50 p-6">
-
-<h3 class="text-[14px] font-bold text-white mb-3">
-Research & Learning Opportunities
-</h3>
-
-<ul class="space-y-2 text-[13px] text-[#b8d4de]">
-
-<li>• Joint research projects in emerging technologies</li>
-<li>• Internship opportunities for students</li>
-<li>• Access to industry expertise</li>
-<li>• Scholarships and financial support</li>
-
-</ul>
-
-</div>
-
-<!-- BUTTON -->
-<a
-href="#"
-class="inline-flex items-center gap-2 px-5 py-3 bg-[#d4af37]/20 hover:bg-[#d4af37]/30 text-[#d4af37] rounded-lg text-sm font-semibold transition"
->
-View Partnership Details
-</a>
-
-</div>
-
-</div>
-
-<!-- STATS -->
-<div class="mt-12 grid grid-cols-2 md:grid-cols-4 gap-4">
-
-<div class="bg-[#11465a]/50 border border-[#2a6e80]/40 rounded-lg p-4 text-center">
-<p class="text-[11px] text-[#7ab5c5] uppercase">Total Partners</p>
-<p class="text-2xl font-bold text-[#d4af37]">14</p>
-</div>
-
-<div class="bg-[#11465a]/50 border border-[#2a6e80]/40 rounded-lg p-4 text-center">
-<p class="text-[11px] text-[#7ab5c5] uppercase">Countries</p>
-<p class="text-2xl font-bold text-[#d4af37]">5</p>
-</div>
-
-<div class="bg-[#11465a]/50 border border-[#2a6e80]/40 rounded-lg p-4 text-center">
-<p class="text-[11px] text-[#7ab5c5] uppercase">Avg Forbes Rank</p>
-<p class="text-2xl font-bold text-[#d4af37]">#333</p>
-</div>
-
-<div class="bg-[#11465a]/50 border border-[#2a6e80]/40 rounded-lg p-4 text-center">
-<p class="text-[11px] text-[#7ab5c5] uppercase">Top Ranked</p>
-<p class="text-2xl font-bold text-[#d4af37]">#5</p>
-</div>
-
-</div>
-
-</section>
 </body>
 </html>

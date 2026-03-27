@@ -13,14 +13,7 @@
        .hero{
             margin-top: 0px;
          }   
-        .menu-toggle {
-            display: none;
-            background: none;
-            border: none;
-            cursor: pointer;
-            font-size: 24px;
-            color: var(--primary);
-        }
+  
 
       
    
@@ -459,13 +452,9 @@
                 font-size: 20px;
             }
 
-            .sdg-grid {
-                grid-template-columns: repeat(2, 1fr);
-            }
 
-            .menu-toggle {
-                display: block;
-            }
+
+         
         }
 
         @media (max-width: 768px) {
@@ -498,152 +487,6 @@
                 gap: 8px;
             }
 
-            .menu-toggle {
-                display: block;
-                font-size: 20px;
-                padding: 4px;
-                z-index: 1001;
-            }
-
-
-            .dropdown {
-                position: relative;
-                flex-shrink: 0;
-                width: 100%;
-            }
-
-            .dropdown-trigger {
-                display: flex;
-                align-items: center;
-                gap: 4px;
-                white-space: nowrap;
-                padding: 12px 0;
-                width: 100%;
-                border-bottom: 1px solid rgba(255,255,255,0.1);
-            }
-
-            .dropdown-trigger::after {
-                content: '';
-                width: 0;
-                height: 0;
-                border-left: 3px solid transparent;
-                border-right: 3px solid transparent;
-                border-top: 5px solid currentColor;
-                transition: transform 0.2s ease;
-                margin-left: auto;
-            }
-
-            .dropdown-trigger.show::after {
-                transform: rotate(180deg);
-            }
-
-            .dropdown-menu {
-                width: 100%;
-                max-width: 100%;
-                left: 0;
-                right: 0;
-                transform: none;
-                position: static;
-                top: auto;
-                max-height: auto;
-                overflow-x: visible;
-                overflow-y: visible;
-                z-index: 1002;
-                padding: 0 !important;
-                box-shadow: none;
-                background: rgba(0,0,0,0.1);
-                margin-top: 0;
-            }
-
-            .sdg-menu {
-                width: 100%;
-                padding: 12px 0;
-                background: white;
-                max-height: 70vh;
-                overflow-y: scroll;
-                overflow-x: hidden;
-                -webkit-overflow-scrolling: touch;
-            }
-
-            .sdg-menu::-webkit-scrollbar {
-                width: 8px;
-            }
-
-            .sdg-menu::-webkit-scrollbar-track {
-                background: #f1f1f1;
-            }
-
-            .sdg-menu::-webkit-scrollbar-thumb {
-                background: #888;
-                border-radius: 4px;
-            }
-
-            .sdg-menu::-webkit-scrollbar-thumb:hover {
-                background: #555;
-            }
-
-            .sdg-grid {
-                display: flex;
-                flex-direction: column;
-                gap: 0;
-                overflow-x: visible;
-                overflow-y: visible;
-                padding: 0;
-                margin: 0;
-            }
-
-            .sdg-item {
-                display: flex;
-                flex-direction: row;
-                align-items: center;
-                gap: 12px;
-                padding: 12px 16px;
-                border-radius: 0;
-                text-decoration: none;
-                color: var(--foreground);
-                font-size: 13px;
-                font-weight: 500;
-                transition: background 0.2s ease;
-                text-align: left;
-                white-space: normal;
-                flex-shrink: 0;
-                width: 100%;
-                border-bottom: 1px solid #f0f0f0;
-                min-height: 56px;
-            }
-
-            .sdg-item:hover {
-                background: #f5f5f5;
-            }
-
-            .sdg-item:last-child {
-                border-bottom: none;
-            }
-
-            .sdg-badge {
-                width: 40px;
-                height: 40px;
-                border-radius: 6px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                color: white;
-                font-weight: bold;
-                font-size: 12px;
-                flex-shrink: 0;
-            }
-
-            .sdg-title {
-                flex: 1;
-                display: flex;
-                flex-direction: column;
-                gap: 2px;
-            }
-
-            .sdg-number {
-                font-size: 11px;
-                opacity: 0.7;
-            }
 
             
         }
@@ -689,19 +532,11 @@
                 padding: 16px;
             }
 
-            .sdg-menu {
-                width: 100%;
-            }
-
-            .sdg-grid {
-                grid-template-columns: 1fr;
-            }
+           
 
            
         }
-      .footer-section h4{
-        color:white;
-      }
+    
     </style>
 </head>
 <body>
@@ -730,7 +565,7 @@
 </header>
 
   
-   <nav class="navbar-main">
+  <nav class="navbar-main">
         <div class="navbar-rows">
             <div class="navbar-row top">
                 <a href="/Plan.html" class="nav-link">Plan</a>
@@ -768,7 +603,6 @@
             </div>
         </div>
     </nav>
-
     
 
     <!-- Hero Section -->
@@ -1106,31 +940,19 @@
                             <tbody>
                                 <tr>
                                     <td>Chairman</td>
-                                    <td>Vazeh Asgarov</td>
-                                    <td>Associate Professor, Acting Rector</td>
+                                    <td>Rufat Azizov</td>
+                                    <td>Associate Professor, Rector</td>
                                 </tr>
-                                <tr>
-                                    <td>Co-chairman</td>
-                                    <td>Gasim Mammadov</td>
-                                    <td>Associate Professor, Vice-rector for Academic affairs</td>
-                                </tr>
-                                <tr>
-                                    <td>Co-chairman</td>
-                                    <td>Rafig Jamalov</td>
-                                    <td>Associate Professor, Vice-rector for International relations</td>
-                                </tr>
-                                <tr>
-                                    <td>Co-chairman</td>
-                                    <td>Latafat Gardashova</td>
-                                    <td>Professor, Vice-rector for Scientific affairs</td>
-                                </tr>
+                               
                             </tbody>
                         </table>
                     </div>
 
                     <h3>Sub-committee Members</h3>
                     <div class="members-grid">
-                        <div class="member-item"><span class="member-name">Ulviyya Abbasova</span> <span class="member-role">– Deputy Vice-rector for International Relations</span></div>
+                        <div class="member-item"><span class="member-name">Ulviyya Abbasova</span> <span class="member-role">– Advisor to the Rector on Rankings</span></div>
+                        <div class="member-item"><span class="member-name">Elviz Ismayilov</span> <span class="member-role">– Vice Rector for Science and Innovation</span></div>
+                        <div class="member-item"><span class="member-name">Chingiz Garayev</span> <span class="member-role">– Head of Rankings Department</span></div>
                         <div class="member-item"><span class="member-name">Sevinj Mammadkhanova</span> <span class="member-role">– Dean of Faculty of Chemical Technology</span></div>
                         <div class="member-item"><span class="member-name">Aydin Aliyev</span> <span class="member-role">– Dean of Faculty of Energy</span></div>
                         <div class="member-item"><span class="member-name">Fariz Amirov</span> <span class="member-role">– Head of Organic Substances dept.</span></div>
@@ -1140,12 +962,9 @@
                         <div class="member-item"><span class="member-name">Shukur Nasirov</span> <span class="member-role">– Head of Energy Production dept.</span></div>
                         <div class="member-item"><span class="member-name">Shahin Ismayilov</span> <span class="member-role">– Head of Oil and Gas Engineering dept.</span></div>
                         <div class="member-item"><span class="member-name">Sakit Samadov</span> <span class="member-role">– Advisor on Industrial Cooperation</span></div>
-                        <div class="member-item"><span class="member-name">Elviz Ismayilov</span> <span class="member-role">– Director of Digital Development Center</span></div>
                         <div class="member-item"><span class="member-name">Nigar Ismayilova</span> <span class="member-role">– QS Coordinator, HPC Center</span></div>
                         <div class="member-item"><span class="member-name">Sabina Gurbanova</span> <span class="member-role">– Head of Intl. Relations Section</span></div>
-                        <div class="member-item"><span class="member-name">Nurida Jalilli</span> <span class="member-role">– Specialist for Intl. Projects</span></div>
-                        <div class="member-item"><span class="member-name">Shahla Ahmadova</span> <span class="member-role">– Specialist for Intl. Projects</span></div>
-                        <div class="member-item"><span class="member-name">Chingiz Garayev</span> <span class="member-role">– Specialist for Foreign Partners</span></div>
+
                     </div>
 
                     <h3>Working Groups</h3>
@@ -1167,8 +986,8 @@
                 <!-- Acknowledgements -->
                 <section id="acknowledgements">
                     <h2 class="section-heading">Acknowledgements</h2>
-                    <p>The ASOIU Sustainability Plan has come to life thanks to relevant departments (Technology of organic substances, Electric power, Petrochemical technology, Industrial safety departments, Rector's office, International cooperation office and others).</p>
-                    <p><strong>Sustainability Committee:</strong> Mr. Vazeh Asgarov (Chair) and Mr. Gasim Mammadov (Co-chair)</p>
+                    <p>The ASOIU Sustainability Plan has come to life thanks to relevant departments (Rankings Department,Technology of organic substances, Electric power, Petrochemical technology, Industrial safety departments, Rector's office, International cooperation office and others).</p>
+                    <p><strong>Sustainability Committee:</strong> Mr. Rufat Azizov (Chair)</p>
                 </section>
 
                 <hr>
@@ -1497,10 +1316,9 @@
                         <h4>Download the complete plan</h4>
                         <p>Get the full document with all appendices in PDF format.</p>
                     </div>
-                    <button class="btn" onclick="downloadPDF()" style="flex-shrink: 0;">
-                        <i class="fas fa-download"></i>
-                       View and Download full PDF
-                    </button>
+                    
+                      <a href="file:///C:/Users/Admin/Downloads/Sustainability_Plan_ASOIU.pdf" class="text-black text-decoration-none btn"> View and Download full PDF</a>
+                  
                 </div>
             </article>
         </div>
@@ -1510,8 +1328,7 @@
     <button class="scroll-top" id="scrollTopBtn" onclick="scrollToTop()">
         <i class="fas fa-chevron-up"></i>
     </button>
-
-  <footer>
+<footer>
         <div class="footer-top">
             <div class="footer-grid">
 
@@ -1535,7 +1352,7 @@
 
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4">
 
-                        <div class="footer-section">
+                        <div class="footer-section marg">
                             <h4>Quick links</h4>
                             <ul>
                                 <li><a href="#">News</a></li>
@@ -1545,7 +1362,7 @@
 
 
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 col-xxl-4">
-                        <div class="footer-section ">
+                        <div class="footer-section contact-info">
                             <h4>Contact</h4>
                             <ul>
                                 <li><i class="fas fa-map-marker-alt"></i> Baku, Azadliq Avenue, 20</li>
@@ -1557,6 +1374,12 @@
                         </div>
                     </div>
                 </div>
+
+
+
+
+
+
 
             </div>
         </div>

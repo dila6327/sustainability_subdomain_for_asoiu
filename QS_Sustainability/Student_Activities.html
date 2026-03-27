@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Activities</title>
+    <style>
+    /* HEALTH & ACTIVITIES GRID */
+    .student-section-container {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .student-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+    }
+
+    .student-card {
+        background: #1a4d57; /* Matches the teal in your image */
+        border-radius: 12px;
+        padding: 25px;
+        color: white;
+        transition: transform 0.3s ease, background 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 280px;
+        animation: fadeIn 0.4s ease;
+    }
+
+    .student-card:hover {
+        transform: translateY(-5px);
+        background: #235d68;
+        border-color: #ffc107; /* Subtle yellow glow on hover */
+    }
+
+    .card-meta {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #ffc107; /* Yellow accent */
+        margin-bottom: 15px;
+    }
+
+    .card-meta i {
+        background: rgba(0, 0, 0, 0.2);
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+
+    .student-card h3 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        line-height: 1.3;
+    }
+
+    .student-card p {
+        font-size: 14px;
+        color: #cfd8dc;
+        line-height: 1.6;
+        margin-bottom: 20px;
+        flex-grow: 1;
+    }
+
+    .learn-more-link {
+        color: #ffc107;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .learn-more-link:hover {
+        text-decoration: underline;
+    }
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+    /* RESPONSIVE STYLES */
+    @media (max-width: 768px) {
+        .student-grid {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            padding: 0;
+        }
+
+        .student-card {
+            padding: 20px;
+            min-height: 250px;
+        }
+
+        .student-card h3 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+
+        .student-card p {
+            font-size: 13px;
+        }
+
+        .card-meta {
+            font-size: 11px;
+        }
+
+        .card-meta i {
+            width: 28px;
+            height: 28px;
+            font-size: 12px;
+        }
+
+        .learn-more-link {
+            font-size: 13px;
+        }
+
+        h1.title {
+            font-size: 28px;
+        }
+
+        p.text {
+            font-size: 15px;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .student-section-container {
+            padding: 0 10px;
+        }
+
+        .student-grid {
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        .student-card {
+            padding: 18px;
+            min-height: 200px;
+        }
+
+        .student-card h3 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .student-card p {
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+
+        .card-meta {
+            gap: 8px;
+            font-size: 10px;
+            margin-bottom: 12px;
+        }
+
+        .card-meta i {
+            width: 26px;
+            height: 26px;
+            font-size: 11px;
+        }
+
+        .learn-more-link {
+            font-size: 12px;
+            gap: 6px;
+        }
+
+        h1.title {
+            font-size: 22px;
+            margin-top: 15px;
+        }
+
+        p.text {
+            font-size: 13px;
+        }
+    }
+</style>
+</head>
+<body>
+    
+
+
+<h1 class="qs-sustainability-heading">Student Initiatives(News and Activities)</h1>
+
+
+<div class="student-section-container">
+    <div class="student-grid">
+        
+        <div class="student-card">
+            <div>
+                <h3>ASOIU students have put forward an initiative to convert vegetable oils into biofuel</h3>
+                <p>The Student Scientific Society (SSS) of ASOIU declared November as Sustainable Development Goals (SDG) Month, launching environmental initiatives to promote resource efficiency and circular economy practices. As part of this effort, used vegetable oils from the university cafeteria are being converted into biodiesel, reducing waste, supporting renewable energy, and encouraging students’ environmental responsibility.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/3386" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+       
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU's "HealWith" startup was presented at the "Sustainable Exhibition: Art and Innovation for the Planet" event.</h3>
+                <p>Azerbaijan State Oil and Industry University's (ASOIU) startup, "HealWith," is an AI-based mobile app that identifies plant diseases from photos and provides treatment recommendations. The app also features a forum where farmers can share experiences, promoting healthier crops, reduced pesticide use, and sustainable agriculture.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/3284" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOSU students were awarded the first place in "WaterTech Bootcamp 2025".</h3>
+                <p>Students of Azerbaijan State Oil and Industry University (ASOIU) — Seyyar Abdullayev, Aykhan Ismayilov, and Sevda Shafiyeva — achieved first place with their team “HydroNET” at the WaterTech Bootcamp 2025, an intensive training and hackathon focused on water resource management and environmental solutions. Their success highlights strong innovation, teamwork, and a commitment to solving ecological challenges.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/3282" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU startups presented at COP29</h3>
+                <p>Azerbaijan State Oil and Industry University participated in a panel session on “The Role of Innovative Environments in Universities and Green Technologies” during the COP29, highlighting its efforts in promoting green technologies and innovative academic solutions to climate change.
+
+During the session, ASOIU presented its research and startup initiatives, including a concept on green hydrogen storage in carbon nanotubes, emphasizing the university’s contribution to sustainable innovation.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2806" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>An ASOIU student successfully represented our country at an international exchange event.</h3>
+                <p>Murad Qaramollayev, a third-year Mechatronics and Robotics Engineering student from the SABAH groups of Azerbaijan State Oil and Industry University (ASOIU), successfully represented Azerbaijan at the international exchange event “Nature Conservation in the City” held in Hannover, Germany, where he delivered a scientific presentation and presented a poster on his research topic.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/3261" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU Students' Startup Receives High Interest at the 1st Azerbaijan International Investment Forum</h3>
+                <p>On September 23, the “1st Azerbaijan International Investment Forum” held in Baku brought together government leaders, international experts, and major companies to discuss innovation, investment opportunities, and development in agriculture and agribusiness. During the forum, innovative agricultural startups were showcased, including ASOIU’s “Healwith” mobile application, which attracted significant interest for its ability to detect plant diseases and provide treatment recommendations using image recognition technology.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/3268" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU's SABAH Group Students Win "Secure Tomorrow" Hackathon</h3>
+                <p>On December 3, the opening ceremony of the Student-Alumni Forum and Career Fair dedicated to the 10th anniversary of the SABAH groups was held, where winners of the “Secure Tomorrow��� ecological awareness hackathon were awarded. The “Spark” team from ASOIU took 1st place, followed by “THETA” in 2nd and “FUTURIST” in 3rd.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2825" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+ <div class="student-card">
+            <div>
+                <h3>ASOIU students participate in excursion as part of COP29</h3>
+                <p>An excursion to the 230 MW Qaradagh Solar Power Plant was organized on October 26 by the Public Council under the Ministry of Energy of the Republic of Azerbaijan in collaboration with the Faculty of Power Engineering at Azerbaijan State Oil and Industry University (ASOIU). Led by Associate Professor Aydin Aliyev, students observed how 800V DC electricity from solar panels is converted to AC and stepped up to 330 kV, while also learning about the plant’s large-scale operations, including its 550-hectare area and over 500,000 high-capacity solar panels.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2761" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU students represent Azerbaijan at the 75th International Astronautical Congress in Milan</h3>
+                <p>A team of 52 Azerbaijani participants, including ASOIU students, represented the country at the 75th International Astronautical Congress in Milan, presenting research on topics such as space sustainability, human health, and satellite missions. Supported by national organizations, they joined over 11,000 participants from 120 countries, gaining valuable experience through global collaboration and scientific exchange.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2755" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU's "Green World Ambassadors" receive certificates</h3>
+                <p>At Azerbaijan State Oil and Industry University, students who actively participated in the XV Alumni-Career Fair and COP29 events were awarded certificates for their engagement. During the event, members of the “Green World Ambassadors” initiative—part of the Green University project—shared how volunteering opportunities helped them gain valuable experience and skills.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2653" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU and UFAZ "Green World Ambassadors" visit "Eco Park" Innovation Center</h3>
+                <p>Students from Azerbaijan State Oil and Industry University (ASOIU) and UFAZ visited the Eco Park Innovation Center as part of the “Green University” project supporting COP29 and the “Green World Solidarity Year.” During the visit, they learned how the park was transformed from an oil-contaminated area into a green space with rare plants, highlighting Azerbaijan’s environmental initiatives.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2645" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>Students plant tree at ASOIU as part of COP29</h3>
+                <p>On June 11, students from the "Yukselish" mentorship program at Azerbaijan State Oil and Industry University (ASOIU) planted a tree on campus to support COP29. A plaque with the name "Yukselish" was placed on the tree to promote green spaces and the upcoming international conference.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2638" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU students awarded first place in international startup competition</h3>
+                <p>ASOIU students won 1st place in the international startup competition "Finding Innovative and Creative Solutions" with their ABC team, which developed a head-movement-controlled wheelchair and computer system for people with ALS. The project was initially developed at Azerbaijan Technical University's "Cezeri Lab" and involved six team members, including PhD Elviz Ismayilov and Aida Adigozalova.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2589" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU students excel in "GreenTech Startup and Green Technologies" competition</h3>
+                <p>On May 1, Azerbaijan Technological University hosted the "GreenTech Startup and Green Technologies" competition as part of the "Green World Solidarity Year," attracting nearly 200 students from 17 higher education institutions, including ASOIU. ASOIU's team 'PENTAGON,' with Sadig Aliyev and Leyla Kazimzadeh, won 1st place in Robotics for their Sand Cleaner project and 3rd place in AI for Sustainability with the Agro Helper project.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2568" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU students represented the university at the "Food Safety Volunteers" initiative group conference</h3>
+                <p>Students from the Food Engineering program at the Chemical Technology Faculty of ASOIU attended a conference organized by the Azerbaijan Food Safety Agency for the “Food Safety Volunteers” initiative, where over 700 applications were received and nearly 100 members successfully joined. The event brought together more than 25 ASOIU students and faculty, alongside students from six other universities.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2528" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+         <div class="student-card">
+            <div>
+                <h3>ASOIU team secures 2nd place in Enactus National Finals</h3>
+                <p>The Enactus team from Azerbaijan State Oil and Industry University (ASOIU) secured 2nd place in the national finals with their innovative projects, ABC, a head movement-controlled wheelchair for individuals with ALS, and Vecta, an intelligent system for monitoring soil and weather conditions for farmers. The team included Farid Shikhiev, Rufat Shikhiev, Murad Samadov, Nargiz Gafarova, Subhan Ibrahimli, Chingiz Gurbanli, Narmin Gasimli, Aqshin Salimzade, Gadir Ahmadov, Nuri Rustamov, and their mentor, Elviz Ismayilov.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2234" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+         <div class="student-card">
+            <div>
+                <h3>UFAZ Students Contribute to the Sustainable Development Goals through Research Projects</h3>
+                <p>Within the framework of a research collaboration between the Azerbaijan State Oil and Industry University (ASOIU) and the United Arab Emirates University (UAEU), five joint projects advancing the Sustainable Development Goals—particularly clean energy, innovation, and climate action—are fostering impactful scientific cooperation and promising real-world solutions.</p>
+            </div>
+            <a href="https://www.ufaz.az/en/news/ufaz-students-contribute-to-the-sustainable-development-goals-through-research-projects/" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+   
+    </div>
+          <p class=" fs-5 mt-2">
+    To learn more about <strong>Student Activities For Sustainability</strong> :
+    </p>
+   <p> <a href="https://asoiu.edu.az/sas" class="text-decoration-none fw-semibold text-primary">
+     Student Alliance For Sustainability →
+    </a>
+    </p>
+    <p>
+     <a href="https://asoiu.edu.az/sustainability_student_achievements" class="text-decoration-none fw-semibold text-primary">
+      Student Sustainable Achievements →
+    </a>
+  </p>
+    <p>
+     <a href="https://asoiu.edu.az/Sustainability" class="text-decoration-none fw-semibold text-primary">
+      Student Approach Towards Sustainability→
+    </a>
+  </p>
+</div>
+</body>
+</html>

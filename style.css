@@ -727,11 +727,6 @@ margin-top: 60px;
     transform: translateY(-5px);
 }
 
-.archive-card-image img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
 
 .archive-card-content {
     padding: 20px;
@@ -1437,3 +1432,20 @@ margin-top: 60px;
                 font-size: 18px;
             }
         }
+.qs-sustainability-heading{
+  font-size: 32px;
+    font-weight: 700;
+    color: #ffc107;
+    text-align: center;
+    margin: 40px 0 20px 0;
+    position: relative;
+}
+
+.course-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 400px; /* Ensures all cards stay aligned */
+    border:1px solid black;
+}
+

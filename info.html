@@ -9,7 +9,7 @@
       <script src="script.js" defer></script>
 <style>
 .info-container{
-    max-width:800px;
+    max-width:500px;
     margin:50px auto 80px;
     background:#fff;
     border-radius:20px;
@@ -187,14 +187,7 @@
 async function getData(){
     const stored = localStorage.getItem("committeeData");
     if(stored) return JSON.parse(stored);
-    return [
-        { id:1, name:"Rufat Azizov", position:"Associate Professor, Rector", img:"https://via.placeholder.com/400x400", bio:"Full biography about Rufat Azizov..." },
-        { id:2, name:"Gasim Mammadov", position:"Associate Professor, Vice-rector for academic affairs", img:"https://via.placeholder.com/400x400", bio:"Full biography about Gasim Mammadov..." },
-        { id:3, name:"Latafat Gardashova", position:"Professor, Vice-rector for scientific affairs", img:"https://via.placeholder.com/400x400", bio:"Full biography about Latafat Gardashova..." },
-        { id:4, name:"Tarek Elkholy", position:"Professor, Head of Rankings and Research", img:"https://via.placeholder.com/400x400", bio:"Full biography about Tarek Elkholy..." },
-        { id:5, name:"Hanene Boussi", position:"Professor, Vice-rector of the University of Tunis", img:"https://via.placeholder.com/400x400", bio:"Full biography about Hanene Boussi..." },
-        { id:6, name:"Nur Zahdi Aldin", position:"Director of Quality Management", img:"https://via.placeholder.com/400x400", bio:"Full biography about Nur Zahdi Aldin..." }
-    ];
+   
 }
 
 function render(data){

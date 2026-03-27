@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disability Support</title>
+    <style>
+    /* HEALTH & ACTIVITIES GRID */
+    .disability-support-activities {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .disability-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
+    }
+
+    .disability-card {
+        background: #1a4d57; /* Matches the teal in your image */
+        border-radius: 12px;
+        padding: 25px;
+        color: white;
+        transition: transform 0.3s ease, background 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 280px;
+        animation:0.4s fadeIn ease;
+    }
+
+    .disability-card:hover {
+        transform: translateY(-5px);
+        background: #235d68;
+        border-color: #ffc107; /* Subtle yellow glow on hover */
+    }
+
+    .card-meta {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #ffc107; /* Yellow accent */
+        margin-bottom: 15px;
+    }
+
+    .card-meta i {
+        background: rgba(0, 0, 0, 0.2);
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+
+    .disability-card h3 {
+        font-size: 20px;
+        font-weight: 600;
+        margin-bottom: 15px;
+        line-height: 1.3;
+    }
+
+    .disability-card p {
+        font-size: 14px;
+        color: #cfd8dc;
+        line-height: 1.6;
+        margin-bottom: 20px;
+        flex-grow: 1;
+    }
+
+    .learn-more-link {
+        color: #ffc107;
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .learn-more-link:hover {
+        text-decoration: underline;
+    }
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+    /* RESPONSIVE STYLES */
+    @media (max-width: 768px) {
+        .disability-grid {
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            padding: 0;
+        }
+
+        .disability-card {
+            padding: 20px;
+            min-height: 250px;
+        }
+
+        .disability-card h3 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+
+        .disability-card p {
+            font-size: 13px;
+        }
+
+        .card-meta {
+            font-size: 11px;
+        }
+
+        .card-meta i {
+            width: 28px;
+            height: 28px;
+            font-size: 12px;
+        }
+
+        .learn-more-link {
+            font-size: 13px;
+        }
+    }
+
+    @media (max-width: 576px) {
+        .disability-support-activities {
+            padding: 0 10px;
+        }
+
+        .disability-grid {
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        .disability-card {
+            padding: 18px;
+            min-height: 200px;
+        }
+
+        .disability-card h3 {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+
+        .disability-card p {
+            font-size: 12px;
+            margin-bottom: 15px;
+        }
+
+        .card-meta {
+            gap: 8px;
+            font-size: 10px;
+            margin-bottom: 12px;
+        }
+
+        .card-meta i {
+            width: 26px;
+            height: 26px;
+            font-size: 11px;
+        }
+
+        .learn-more-link {
+            font-size: 12px;
+            gap: 6px;
+        }
+    }
+</style>
+</head>
+<body>
+    
+
+
+<h1 class="qs-sustainability-heading">Disability Supporting Activities and News</h1>
+
+<div class="disability-support-activities">
+    <div class="disability-grid">
+        
+        <div class="disability-card">
+            <div>
+              
+                <h3>Special privileges for socially vulnerable students and individuals with disabilities at ASOIU</h3>
+                <p>At Azerbaijan State Oil and Industry University, inclusive policies and support systems ensure that students and staff from socially vulnerable groups, including individuals with disabilities, receive equal access to education, resources, and opportunities, fostering a diverse and supportive academic environment.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2512" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+          <div class="disability-card">
+            <div>
+              
+                <h3>Event on "TİPx: How to Build an Inclusive Society?" was held at ASOIU</h3>
+                <p>On May 30, an event titled “TİPx: How to Build an Inclusive Society?” was held at the Azerbaijan State Oil and Industry University (ASOIU), where experts and participants discussed key principles of inclusivity, social cohesion, and reducing inequality, while addressing students’ questions in an interactive format.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/2618" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+     
+
+          <div class="disability-card">
+            <div>
+              
+                <h3>Cooperation between ASOIU and the YAŞAT Foundation is discussed</h3>
+                <p>On October 28, ASOIU Rector Mustafa Babanli met with YAŞAT Foundation head Elvin Huseynov to discuss the significance of the 44-day war victory under Ilham Aliyev and agreed on joint projects to support families of martyrs and disabled veterans.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/1463" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+          <div class="disability-card">
+            <div>
+              
+                <h3>Training organized by ASOIU and the State Employment Agency for the families of martyrs, war invalids, and participants have started</h3>
+                <p>At Azerbaijan State Oil and Industry University, a six-month IT training program supported by national and international partners has been launched for families of martyrs, war veterans, and invalids, providing them with professional skills, social adaptation support, international certification, and employment opportunities.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/1411" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+          <div class="disability-card">
+            <div>
+              
+                <h3>ASOIU's Student Youth Organization members visited the Bilgah Elderly and Disabled House</h3>
+                <p>On November 25, members of the Charity Club of the Student Youth Organization (SYO) of Azerbaijan State Oil and Industry University, with the support of the Heydar Aliyev Foundation and the Ministry of Labour and Social Protection of the Population, visited the Bilgah Elderly and Disabled House, where they met with director Gatiba Asadova, learned about the residents’ living conditions, and spent meaningful time with 221 elderly individuals by offering gifts and exploring the facility’s library.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/709" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+         <div class="disability-card">
+            <div>
+              
+                <h3>ASOIU transferred 50,000 manat to YAŞAT Foundation</h3>
+                <p>Azerbaijan State Oil and Industry University has demonstrated a strong commitment to social responsibility by contributing 50,000 manat to the YASHAT Foundation, established by presidential decree on December 8, 2020, to support war-wounded individuals and the families of martyrs in connection with the protection of Azerbaijan's territorial integrity. Additionally, the university has transferred 80,000 manat to the Coronavirus Support Fund and more than 200,000 manat, including voluntary donations from its employees, to the Armed Forces Assistance Fund of the Republic of Azerbaijan, reflecting its active role in addressing national and social challenges.</p>
+            </div>
+            <a href="https://asoiu.edu.az/single_news/1295" target="_blank" class="learn-more-link">Learn More <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+
+
+
+    </div>
+</div>
+</body>
+</html>

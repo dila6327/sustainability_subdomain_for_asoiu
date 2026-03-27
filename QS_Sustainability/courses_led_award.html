@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Courses Led to Award</title>
+    <style>
+       
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+
+        /* Cards Grid */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+            margin-bottom: 40px;
+        }
+
+        /* Course Card */
+        .course-card {
+            background: linear-gradient(145deg, #14444e, #0f363e);
+            border-radius: 16px;
+            padding: 32px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease;
+               animation: fadeIn 0.4s ease;
+        }
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+        .course-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .course-label {
+            font-size: 12px;
+            font-weight: 700;
+            color: #ffc107;
+            letter-spacing: 0.5px;
+        }
+
+        .course-title {
+            font-size: 24px;
+            font-weight: 600;
+            color: white;
+            margin: 8px 0 16px 0;
+            line-height: 1.3;
+        }
+
+       
+
+        .course-sdgs {
+            font-size: 14px;
+            font-weight: 600;
+            color: white;
+        }
+
+        .course-sdgs span {
+            color: #a8c8cf;
+            font-weight: 400;
+        }
+
+        /* SDG Badges */
+        .sdg-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        /* About Section */
+        .about-section {
+            background: linear-gradient(145deg, #14444e, #0f363e);
+            border-radius: 16px;
+            padding: 28px;
+            margin-top: 40px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .about-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .about-icon {
+            font-size: 24px;
+            color: #d4a84b;
+        }
+
+        .about-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: white;
+        }
+
+        .about-text {
+            font-size: 14px;
+            line-height: 1.7;
+            color: #a8c8cf;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .cards-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+            }
+
+            .course-card {
+                padding: 28px;
+            }
+
+            .course-title {
+                font-size: 22px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 15px;
+            }
+
+            .courses-header {
+                font-size: 26px;
+                margin: 30px 0 20px 0;
+            }
+
+            .cards-grid {
+                grid-template-columns: 1fr;
+                gap: 18px;
+                margin-bottom: 30px;
+            }
+
+            .course-card {
+                padding: 24px;
+                gap: 16px;
+            }
+
+            .course-title {
+                font-size: 20px;
+                margin-bottom: 12px;
+            }
+
+            .course-label {
+                font-size: 11px;
+            }
+
+            .course-sdgs {
+                font-size: 13px;
+            }
+
+            .about-section {
+                padding: 22px;
+                margin-top: 30px;
+            }
+
+            .about-title {
+                font-size: 16px;
+            }
+
+            .about-text {
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .container {
+                padding: 0 10px;
+            }
+
+            .courses-header {
+                font-size: 22px;
+                margin: 20px 0 15px 0;
+            }
+
+            .cards-grid {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .course-card {
+                padding: 20px;
+                gap: 14px;
+            }
+
+            .course-title {
+                font-size: 18px;
+                margin-bottom: 10px;
+                margin: 8px 0 12px 0;
+            }
+
+            .course-label {
+                font-size: 10px;
+            }
+
+            .course-sdgs {
+                font-size: 12px;
+            }
+
+            .course-card ul {
+                font-size: 12px !important;
+                padding-left: 20px;
+            }
+
+            .course-card a {
+                font-size: 16px !important;
+            }
+
+            .about-section {
+                padding: 18px;
+                margin-top: 25px;
+            }
+
+            .about-header {
+                gap: 10px;
+                margin-bottom: 12px;
+            }
+
+            .about-icon {
+                font-size: 20px;
+            }
+
+            .about-title {
+                font-size: 15px;
+            }
+
+            .about-text {
+                font-size: 12px;
+            }
+
+            .sdg-container {
+                gap: 6px;
+            }
+
+            .sdg-badge {
+                width: 36px;
+                height: 36px;
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="qs-sustainability-heading">Courses Led to Officially Recognized Awards</h1>
+        <!-- Cards Grid -->
+        <div class="cards-grid">
+            <!-- Course 1 -->
+            <div class="course-card">
+                <div>
+                    <div class="course-label">ASOIU & University of Warwick</div>
+                    <h2 class="course-title">MSc Dual Degree Programme in "Renewable Energy"</h2>
+                </div>
+<ul style="color:white">
+    <li>Clean and Renewable Energy Production</li>
+    <li>Low Carbon Energy Systems</li>
+    <li>Smart-Grid Development</li>
+    <li>Sustainable technology Innovation</li>
+     <li>Climate-responsive power systems</li>
+    </ul>
+                <div class="course-sdgs">
+                    SDGs: <span>7, 13, 9</span>
+                </div>
+                <a href="https://warwick.ac.uk/fac/sci/wmg/study/international-partnerships/azerbaijan-state-oil-and-industry-university/" target="_blank" style="color:green; text-decoration:none; font-size:20px">Link</a>
+            </div>
+
+            <!-- Course 2 -->
+            <div class="course-card">
+                <div>
+                    <div class="course-label">ASOIU BACHELOR</div>
+                    <h2 class="course-title">Ecological Engineering</h2>
+                </div>
+               <ul  style="color:white">
+                <li>Environmental management</li>
+                <li>Ecological systems engineering</li>
+                <li>Pollution control technologies</li>
+                <li>Resource sustainability</li>
+                <li>Climate-related environmental assessment</li>
+               </ul>>
+                <div class="course-sdgs">
+                    SDGs: <span>6,13,15</span>
+                </div>
+                 <a href="https://azedu.az/az/universitetler/97893/adnsu-nun-daha-3-ixtisasi-beynelxalq-akkreditasiyadan-kecib/" target="_blank" style="color:green; text-decoration:none; font-size:20px">Link</a>
+            </div>
+
+            <!-- Course 3 -->
+            <div class="course-card">
+                <div>
+                    <div class="course-label">UFAZ master</div>
+                    <h2 class="course-title">Water Resources Management (UFAZ – University of Strasbourg dual program)</h2>
+                </div>
+                <ul  style="color:white">
+                    <li>Sustainable water resource governance</li>
+                    <li>Hydrology and watershed management</li>
+                    <li>Climate-related water challenges</li>
+                    <li>Ecological risk assessment</li>
+                    <li>Water-energy-environment interactions</li>
+                </ul>
+                <div class="course-sdgs">
+                    SDGs: <span>6, 13, 14</span>
+                </div>
+                  <a href="https://www.ufaz.az/en/academic-offer/graduate-programs/msc-water-resources-and-management/" style="color:green; text-decoration:none; font-size:20px" target="_blank">Link</a>
+            </div>
+        </div>
+
+        <!-- About Section -->
+        <div class="about-section">
+            <div class="about-header">
+                <span class="about-icon">&#127942;</span>
+                <h3 class="about-title">About Courses Led to Award</h3>
+            </div>
+            <p class="about-text">
+                These degree programmes represent formally recognized academic qualifications with a direct sustainability focus. 
+                They are awarded through international partnerships and accreditation, qualifying them as "Courses Led to Award" 
+                under the QS Sustainability Rankings Environmental Education indicator.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

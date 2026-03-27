@@ -33,9 +33,11 @@ main {
     box-shadow: 0 10px 25px rgba(0,0,0,0.08);
     line-height: 1.7;
     color: #334155;
+     margin-top: 60px;
 }
 .intro-text p {
     margin: 0 0 15px;
+   
 }
 .intro-text a {
     color: #1e3a8a;
@@ -173,10 +175,6 @@ main {
     <!-- COMMITTEE GRIDS -->
     <h2 class="section-title">Chairman</h2>
     <div class="committee-grid" id="grid-chairman"></div>
-
-    <h2 class="section-title">Co-chairmen</h2>
-    <div class="committee-grid" id="grid-cochairmen"></div>
-
     <h2 class="section-title">Members</h2>
     <div class="committee-grid" id="grid-members"></div>
 </main>
@@ -247,14 +245,33 @@ main {
 const API_URL = "https://jsonplaceholder.typicode.com/use";
 
 const fallbackData = [
-    { id:1, name:"Rufat Azizov", position:"Associate Professor, Rector", role:"chairman", img:"https://asoiu.edu.az/upload/news/93597e6ec3b045204511a0ab030a4fb9.jpeg", bio:"Full biography about Rufat Azizov..." },
-    { id:2, name:"Gasim Mammadov", position:"Associate Professor, Vice-rector for academic affairs", role:"co-chairman", img:"https://asoiu.edu.az/oil_mechanical_engineering/upload/teacher/qasimkk.JPG", bio:"Full biography about Gasim Mammadov..." },
-    { id:3, name:"Latafat Gardashova", position:"Professor, Vice-rector for scientific affairs", role:"co-chairman", img:"https://via.placeholder.com/400x400", bio:"Full biography about Latafat Gardashova..." },
-    { id:4, name:"Tarek Elkholy", position:"Professor, Head of Rankings and Research", role:"member", img:"https://via.placeholder.com/400x400", bio:"Full biography about Tarek Elkholy..." },
-    { id:5, name:"Hanene Boussi", position:"Professor, Vice-rector of the University of Tunis", role:"member", img:"https://via.placeholder.com/400x400", bio:"Full biography about Hanene Boussi..." },
-    { id:6, name:"Nur Zahdi Aldin", position:"Director of Quality Management", role:"member", img:"https://via.placeholder.com/400x400", bio:"Full biography about Nur Zahdi Aldin..." }
+    { id:1, name:"Rufat Azizov", position:"Associate Professor, Rector", role:"chairman", img:"/images/Rufat-Azizov.png", 
+    bio:'' },
+   
+    { id:2, name:"Tarek Elkholy", position:"Professor, head of ranking and research at Delta University for Science and Technology", role:"member", img:"/images/Tarek Elkhooly.png", bio:"" },
+    { id:3, name:"Hanene Boussi", position:"Vice President/Delegate for Sustainable Impact and Rankings, University of Tunis El Manar", role:"member", img:"/images/Hanene Boussi.png", 
+    bio:'' },
+    { id:4, name:"Nur Zahdi Aldin", position:"Director of Quality | University Rankings Specialist at Asia Pacific University of Technology and Innovation", role:"member", img:"/images/Nur Zahdi.png",
+     bio:"" },
+     { id:5, name:"Elviz Ismayilov", position:"Vice-Rector for Science and Innovation", role:"member", img:"/images/Elviz-Ismayilov.png",
+     bio:"" },
+         { id:6, name:"Sevindj Mamedkhanova", position:"Dean of the Faculty of Chemical Technology, Professor", role:"member", img:"/images/Sevindj Mamedkhanova.png",
+     bio:"" },
+         
+     { id:7, name:"Aydın Aliyev", position:"Dean of the Faculty of Energy,Professor", role:"member", img:"/images/Aydin-Aliyev.png",
+     bio:"" },
+         { id:8, name:"Araz Aliev", position:"Head of Department,Professor", role:"member", img:"/images/Araz Aliyev.png",
+     bio:"" },
+         { id:9, name:"Ulviyya Abbasova", position:"Advisor to the Rector on Rankings", role:"member", img:"/images/Ulviyya-Abbasova.png",
+     bio:"" },
+         { id:10, name:"Nigar Ismayilova", position:"Senior Lecturer,Associate Professor", role:"member", img:"/images/Nigar-Ismayilova.png",
+     bio:"" },
+         { id:11, name:"Mirali Rahimov", position:"Director at AZGREEN Engineering and Environmental Services", role:"member", img:"/images/Mirali-Rahimov.png",
+     bio:""},
+         { id:12, name:"Mahmud Ismayilov", position:"Program Head for Electrical, Electronics and Industrial Engineering,Lecturer", role:"member", img:"/images/Mahmud-Ismayilov.png",
+     bio:"" },
+{ id:13, name:"Chingiz Garayev", position:"Head of Rankings Department", role:"member", img:"/images/Çingiz-Garayev.png", bio:"" }
 ];
-
 async function getData() {
     try {
         const res = await fetch(API_URL);
@@ -279,11 +296,11 @@ async function getData() {
 
 function render(data){
     const chairmanGrid = document.getElementById("grid-chairman");
-    const cochairGrid = document.getElementById("grid-cochairmen");
+  
     const memberGrid = document.getElementById("grid-members");
 
     chairmanGrid.innerHTML="";
-    cochairGrid.innerHTML="";
+    
     memberGrid.innerHTML="";
 
     data.forEach(person=>{
@@ -299,7 +316,7 @@ function render(data){
         `;
 
         if(person.role==="chairman") chairmanGrid.appendChild(card);
-        else if(person.role==="co-chairman") cochairGrid.appendChild(card);
+        
         else memberGrid.appendChild(card);
     });
 }

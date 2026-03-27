@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recognized-Credits</title>
+</head>
+<body>
+    
+<style>
+
+/* TITLE */
+h1.title {
+    text-align: center;
+    margin-top: 30px;
+}
+
+p.text {
+    text-align: center;
+    color: #555;
+}
+
+/* FILTER BUTTONS (SAME DESIGN) */
+.filter-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 30px 20px;
+}
+
+.filter-btn {
+    padding: 10px 18px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background: #1a4d57;
+    color: white;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    background: #ffc107;
+    color: black;
+}
+
+/* GRID */
+.credit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* CARD (IMPROVED DESIGN) */
+.credit-card {
+    background: linear-gradient(145deg, #1a4d57, #163f47);
+    border-radius: 16px;
+    padding: 22px;
+    color: white;
+    transition: 0.3s;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+    width: 100%;
+     animation: fadeIn 0.4s ease;
+}
+
+.credit-card:hover {
+    transform: translateY(-6px);
+}
+
+/* HEADER */
+.credit-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.credit-icon {
+    width: 42px;
+    height: 42px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* TITLE */
+.credit-title {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* TAGS */
+.credit-tags {
+    display: flex;
+    gap: 8px;
+    margin-top: 6px;
+}
+
+.tag {
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.tag.beginner { background: #00b894; }
+.tag.intermediate { background: #0984e3; }
+.tag.advanced { background: #6c5ce7; }
+
+/* DESCRIPTION */
+.credit-desc {
+    font-size: 14px;
+    color: #cfd8dc;
+    margin-top: 10px;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* INFO */
+.credit-info {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 12px;
+    font-size: 13px;
+}
+
+.credit-info span {
+    display: block;
+    font-size: 11px;
+    color: #9fb3b7;
+}
+
+/* LINKS */
+.credit-links {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.credit-links a {
+    text-decoration: none;
+    color: #ffc107;
+    font-size: 13px;
+}
+
+/* RESPONSIVE STYLES */
+@media (max-width: 768px) {
+    h1.title {
+        font-size: 28px;
+        margin-top: 20px;
+    }
+
+    p.text {
+        font-size: 15px;
+    }
+
+    .filter-container {
+        margin: 20px 10px;
+        gap: 8px;
+    }
+
+    .filter-btn {
+        padding: 8px 14px;
+        font-size: 12px;
+    }
+
+    .credit-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        padding: 15px;
+        gap: 15px;
+    }
+
+    .credit-card {
+        padding: 18px;
+    }
+
+    .credit-title {
+        font-size: 16px;
+    }
+
+    .credit-info {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .credit-desc {
+        font-size: 13px;
+    }
+
+    .tag {
+        font-size: 11px;
+        padding: 4px 8px;
+    }
+}
+
+@media (max-width: 576px) {
+    h1.title {
+        font-size: 22px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    p.text {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+
+    .filter-container {
+        margin: 15px 5px;
+        gap: 6px;
+        flex-direction: column;
+    }
+
+    .filter-btn {
+        padding: 10px 12px;
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .credit-grid {
+        grid-template-columns: 1fr;
+        padding: 10px;
+        gap: 12px;
+    }
+
+    .credit-card {
+        padding: 16px;
+    }
+
+    .credit-header {
+        gap: 10px;
+    }
+
+    .credit-icon {
+        width: 38px;
+        height: 38px;
+    }
+
+    .credit-title {
+        font-size: 15px;
+    }
+
+    .credit-desc {
+        font-size: 12px;
+        margin-top: 8px;
+    }
+
+    .credit-info {
+        grid-template-columns: 1fr;
+        gap: 8px;
+        font-size: 12px;
+        margin-top: 8px;
+    }
+
+    .tag {
+        font-size: 10px;
+        padding: 3px 7px;
+    }
+
+    .credit-links {
+        gap: 5px;
+    }
+
+    .credit-links a {
+        font-size: 12px;
+    }
+}
+
+</style>
+
+<h1 class="qs-sustainability-heading">Recognized Credit Programs</h1>
+
+
+<!-- FILTERS -->
+<div class="filter-container">
+    <button class="filter-btn active" data-level="all">All Levels</button>
+    <button class="filter-btn" data-level="beginner">Beginner</button>
+    <button class="filter-btn" data-level="intermediate">Intermediate</button>
+    <button class="filter-btn" data-level="advanced">Advanced</button>
+</div>
+
+<!-- GRID -->
+<div class="credit-grid" id="creditContainer"></div>
+
+</body>
+</html>
