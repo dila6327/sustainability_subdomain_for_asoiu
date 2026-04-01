@@ -1,0 +1,1306 @@
+ <div class="health-grid" id="coursesContainer">
+
+        <!-- ASOIU Bachelor Specialties -->
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Chemical Engineering</h3>
+        <p>ASOIU's Chemical Engineering specialty supports sustainability by teaching students to optimize resource efficiency through Material and Energy Balances. This supports SDG 12 by minimizing industrial waste, SDG 7 and SDG 13 by applying Thermodynamics to sustainable energy systems , and SDG 6 and SDG 3 by implementing advanced Separations and Chemical Process Safety.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #26BDE2;">Goal 6</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/upload/CHEMICAL%20ENGINEERING%20PROGRAM%20CURRICULUM.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Computer Engineering</h3>
+        <p>ASOIU's Computer Engineering specialty supports sustainability by teaching students to design energy-efficient hardware and optimize software systems to reduce carbon footprints. This supports SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action) by minimizing the energy and material usage of IT infrastructure through courses like Computer Architecture and HOSEP (Health, Occupational Safety, and Environmental Protection). Additionally, it advances SDG 9 (Industry, Innovation, and Infrastructure) by promoting technological breakthroughs in fields such as Artificial Intelligence, Internet of Things, and Cloud Technologies</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050620_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Food Engineering</h3>
+        <p>ASOIU's Food Engineering specialty supports sustainability by teaching students to optimize food production processes and ensure high standards of safety and nutrition. This supports SDG 12 (Responsible Consumption and Production) by minimizing food waste through advanced cooling and storage technologies, and SDG 2 (Zero Hunger) and SDG 3 (Good Health and Well-being) by focusing on food microbiology, biochemistry, and safety. Additionally, it advances SDG 9 (Industry, Innovation, and Infrastructure) by training students in technological design and project management within the food industry.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #DDA63A;">Goal 2</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #4C9F38;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #4C9F38;">Goal 3</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/chemical_technology_faculty/upload/syllabus/050635-ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Logistics and Transport Technology Engineering</h3>
+        <p>ASOIU's Logistics and Transport Technologies Engineering specialty supports sustainability by teaching students to design efficient supply chains and implement eco-friendly transportation solutions. This supports SDG 11 (Sustainable Cities and Communities) and SDG 13 (Climate Action) by reducing the environmental impact of transit through courses like Transport Ecology and Traffic Safety. Furthermore, it advances SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) by optimizing resource allocation and logistics processes in subjects such as Transport Logistics and Basics of Management in Logistics Systems.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD9D24;">Goal 11</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="file:///C:/Users/Admin/OneDrive/Desktop/050621_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Mechanical Engineering</h3>
+        <p>ASOIU's Mechanical Engineering specialty supports sustainability by teaching students to develop efficient machinery and optimize manufacturing processes to reduce resource consumption. This supports SDG 12 (Responsible Consumption and Production) and SDG 9 (Industry, Innovation, and Infrastructure) through core training in Machine Design and Manufacturing Technologies. Additionally, it advances SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) by focusing on energy-efficient systems in courses such as Thermodynamics and HSE (Health, Safety, and Environment)</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/oil_mechanical_engineering/upload/syllabus/050628_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Mechatronics and Robotics Engineering</h3>
+        <p>ASOIU's Mechatronics and Robotics Engineering specialty supports sustainability by teaching students to design intelligent autonomous systems and energy-efficient automated processes. This supports SDG 9 (Industry, Innovation, and Infrastructure) by fostering advanced technological innovation and SDG 12 (Responsible Consumption and Production) by optimizing resource use through precision robotics. Additionally, it advances SDG 7 (Affordable and Clean Energy) and SDG 11 (Sustainable Cities and Communities) by developing smart systems that improve energy management and urban automation</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD9D24;">Goal 11</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/pdf/Mexatronika%20v%C9%99%20robototexnika%20m%C3%BCh%C9%99ndisliyi.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Engineering Physics</h3>
+        <p>ASOIU's Engineering Physics specialty supports sustainability by teaching students to apply fundamental physical principles to the development of advanced materials and energy systems. This supports SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) through coursework in Thermodynamics and the study of functional and nanomaterials for energy applications. Additionally, the program advances SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) by focusing on the technology of non-metallic materials and implementing Health, Safety, and Environment (HSE) standards in industrial research</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/power_engineering/upload/syllabus/050630_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Oil and Gas Engineering</h3>
+        <p>ASOIU's Oil and Gas Engineering specialty supports sustainability by teaching students to implement efficient extraction techniques and manage environmental risks in the energy sector. This supports SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) by focusing on the transition to more sustainable resource management and lowering the carbon footprint of energy production. Additionally, it advances SDG 12 (Responsible Consumption and Production) and SDG 9 (Industry, Innovation, and Infrastructure) through core training in Quality, Health, Safety, and Environment (QHSE) and advanced project management.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/oil_and_gas_production/upload/syllabus/050631_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Electrical and Electronics Engineering</h3>
+        <p>ASOIU's Electrical and Electronics Engineering specialty supports sustainability by teaching students to design efficient power systems and develop advanced electronic technologies. This supports SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) by optimizing energy conversion and distribution through courses like Electrical Machines, Power Electronics, and High Voltage Engineering. Additionally, it advances SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) by integrating Health, Safety, and Environment (HSE) standards and quality control into the development of sustainable industrial automation and microelectronics.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/power_engineering/upload/syllabus/050607_ENG_4.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Energy Engineering</h3>
+        <p>ASOIU's Energy Engineering specialty supports sustainability by teaching students to optimize power generation and implement efficient energy distribution systems. This supports SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) through core coursework in Thermodynamics, Heat Engineering, and Electrical Machines that focus on reducing energy loss. Additionally, it advances SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) by integrating Industrial Safety and Labor Protection (HSE) standards into the management of large-scale energy projects.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050608_ENG_1-2.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Geology and Geophysics Engineering</h3>
+        <p>ASOIU's Geological and Geophysical Engineering specialty supports sustainability by teaching students to responsibly manage Earth's natural resources and assess environmental risks. This supports SDG 12 (Responsible Consumption and Production) and SDG 15 (Life on Land) through coursework in Hydrogeology, Geochemistry, and Mineralogy that focuses on the protection of soil and water systems. Additionally, it advances SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) by applying Seismic and Electrical exploration techniques to the discovery of sustainable energy resources and the monitoring of geodynamic hazards.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #56C02B;">Goal 15</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/upload/GEOLOGICAL%20AND%20GEOPHYSICAL%20ENGINEERING%20CURRICULUM%20PROGRAM.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Life and Safety Engineering</h3>
+        <p>ASOIU's Life Safety Engineering specialty supports sustainability by teaching students to protect human life, property, and the environment through rigorous safety management and risk assessment. This supports SDG 3 (Good Health and Well-being) and SDG 8 (Decent Work and Economic Growth) by utilizing training in Occupational Health and Safety, Ergonomics, and Engineering Psychology to ensure safe working conditions. Additionally, it advances SDG 11 (Sustainable Cities and Communities) and SDG 12 (Responsible Consumption and Production) by focusing on Fire Safety, Emergency Management, and the technical security bases required for resilient industrial and urban infrastructure.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #4C9F38;">Goal 3</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD9D24;">Goal 11</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/oil_and_gas_production/upload/syllabus/050614_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Information Technology</h3>
+        <p>ASOIU's Information Technology specialty supports sustainability by teaching students to develop high-performance computing solutions and secure, data-driven architectures. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 11 (Sustainable Cities and Communities) through coursework in Cyber-physical Systems, Neural Networks, and Cloud Computing that enables smart urban infrastructure. Additionally, it advances SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action) by integrating HOSEP (Health, Occupational Safety, and Environmental Protection) and Project Management to ensure the sustainable lifecycle and energy efficiency of digital technologies.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD9D24;">Goal 11</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050616_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Information Security</h3>
+        <p>ASOIU's Information Security Engineering specialty supports sustainability by teaching students to build resilient digital infrastructures and protect critical data systems from cyber threats. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 16 (Peace, Justice, and Strong Institutions) through coursework in Network Security, Cryptography, and Cyber-physical Systems that ensure the stability of modern society. Additionally, it advances SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action) by incorporating HOSEP (Health, Occupational Safety, and Environmental Protection) and Project Management to optimize the energy efficiency and sustainable management of secure information systems.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #00689D;">Goal 16</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050615_ENG_2020.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Civil Engineering</h3>
+        <p>ASOIU's Civil Engineering specialty supports sustainability by teaching students to design resilient infrastructure and implement environmentally conscious construction practices. This supports SDG 11 (Sustainable Cities and Communities) and SDG 9 (Industry, Innovation, and Infrastructure) through core coursework in Building Structures, Reinforced Concrete Structures, and Construction Technology. Additionally, the program advances SDG 12 (Responsible Consumption and Production) and SDG 13 (Climate Action) by focusing on resource efficiency and environmental safety in courses such as Water Supply and Wastewater Systems, Hydrology, and Health, Labor Safety, and Environmental Protection (HSE).</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD9D24;">Goal 11</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="http://asoiu.edu.az/oil_and_gas_production/upload/syllabus/050617-ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Process Automation Engineering</h3>
+        <p>ASOIU's Process Automation Engineering specialty supports sustainability by teaching students to design and implement intelligent control systems that maximize industrial efficiency and minimize waste. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) through core coursework in Automated Control Systems, Microprocessor Systems, and Metrology. Additionally, it advances SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) by applying Modeling and Simulation to optimize energy consumption in complex industrial processes, while integrating Health, Safety, and Environment (HSE) and Project Management to ensure sustainable operational lifecycles.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050634_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Industrial Engineering</h3>
+        <p>ASOIU's Industrial Engineering specialty supports sustainability by teaching students to design, improve, and install integrated systems of people, materials, and energy to maximize productivity and reduce waste. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) through core coursework in Operations Research, Supply Chain Management, and Quality Control. Additionally, it advances SDG 8 (Decent Work and Economic Growth) and SDG 13 (Climate Action) by focusing on Ergonomics, Occupational Health and Safety, and the thermodynamic optimization of industrial processes to ensure both human well-being and environmental efficiency.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/oil_mechanical_engineering/upload/pdf/S%C9%99naye%20m%C3%BCh%C9%99ndisliyi%20050638-2020.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Geology</h3>
+        <p>ASOIU's Geology specialty supports sustainability by providing a fundamental understanding of Earth's structure and processes to manage natural resources and mitigate environmental hazards. This supports SDG 15 (Life on Land) and SDG 12 (Responsible Consumption and Production) through the study of Mineralogy, Petrology, and Sedimentology, which are crucial for the sustainable extraction of raw materials. Additionally, it advances SDG 13 (Climate Action) and SDG 6 (Clean Water and Sanitation) by focusing on Historical Geology and Geomorphology to understand environmental changes and protect groundwater resources. The curriculum's emphasis on General and Structural Geology also contributes to SDG 9 (Industry, Innovation, and Infrastructure) by enabling the safe and resilient development of geological projects.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #56C02B;">Goal 15</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/geological_exploration/upload/pdf/050506%20-%20Geologiya..pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Computer Science</h3>
+        <p>ASOIU's Computer Science specialty supports sustainability by teaching students to design efficient algorithms and robust software architectures that optimize digital infrastructure. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 4 (Quality Education) through core coursework in Algorithms and Data Structures, Operating Systems, and Software Engineering. Additionally, the program advances SDG 12 (Responsible Consumption and Production) and SDG 16 (Peace, Justice, and Strong Institutions) by integrating training in Information Security, Cloud Computing, and Project Management to ensure the secure and sustainable lifecycle of information systems.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #C5192D;">Goal 4</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #00689D;">Goal 16</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050509_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Instrumentation Engineering</h3>
+        <p>ASOIU's Instrumentation Engineering specialty supports sustainability by teaching students to develop high-precision monitoring systems and intelligent diagnostic tools. This supports SDG 9 (Industry, Innovation, and Infrastructure) and SDG 12 (Responsible Consumption and Production) through core coursework in Microprocessor Systems, Information-Measuring Systems, and Metrology. Additionally, the program advances SDG 13 (Climate Action) and SDG 7 (Affordable and Clean Energy) by focusing on Environmental Monitoring Systems and Devices, and the application of Machine Learning and Deep Learning to optimize resource efficiency, while integrating HSE (Health, Safety, and Environment) and Project Management to ensure sustainable industrial operations.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/information_technologies_and_control/upload/syllabus/050604_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-bachelor">
+    <div>
+        <div class="card-meta">ASOIU BACHELOR</div>
+        <h3>Ecological Engineering</h3>
+        <p>ASOIU's Ecological Engineering specialty supports sustainability by teaching students to develop technical solutions for environmental protection and resource management. This directly supports SDG 13 (Climate Action) and SDG 15 (Life on Land) through coursework in Ecology, Environmental Monitoring, and the Utilisation and Processing of Industrial Waste. Additionally, the program advances SDG 6 (Clean Water and Sanitation) and SDG 12 (Responsible Consumption and Production) by focusing on Water Resources Protection and the implementation of SATATMM (Health, Safety, and Environmental Protection) standards. The curriculum also contributes to SDG 9 (Industry, Innovation, and Infrastructure) by training students in Environmental Impact Assessment and the design of sustainable engineering systems.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #56C02B;">Goal 15</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #26BDE2;">Goal 6</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://asoiu.edu.az/chemical_technology_faculty/upload/syllabus/050606_ENG.pdf" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+
+<!-- ASOIU Master Specialties -->
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Oil and Gas Field Development</h3>
+        <p>ASOIU's Field Development specialty supports sustainability by teaching efficient resource extraction, environmental management, and low-carbon operational practices in energy production.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Offshore Oil, Gas and Gas-Condensate Field Development</h3>
+        <p>ASOIU's Offshore Field Development specialty supports sustainability by training students in environmentally conscious offshore energy production, preventing marine ecosystem damage, reducing environmental footprint, and supporting low-carbon offshore operations.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #0A97D9;">Goal 14</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Nanotechnology in Oil and Gas Extraction</h3>
+        <p>ASOIU's Nanotechnology specialty supports sustainability by applying innovative, energy-efficient materials and processes that reduce chemical waste in oil and gas extraction.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Mining and Resource Development</h3>
+        <p>ASOIU's Resource Development specialty supports sustainability by training students in responsible extraction methods that minimize environmental impact and promote efficient resource use.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #56C02B;">Goal 15</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Materials Science and Materials Technology</h3>
+        <p>ASOIU's Materials Science specialty supports sustainability by providing students with the knowledge and skills to develop eco-friendly, recyclable, and energy-efficient materials for industrial applications.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Hydraulic Systems of Oil-Mining Equipment</h3>
+        <p>ASOIU's Hydraulic Systems specialty supports sustainability by teaching students to design and operate energy-efficient hydraulic systems, reducing environmental impact and resource consumption.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Restoration and Strengthening of Equipment</h3>
+        <p>ASOIU's Equipment Restoration specialty supports sustainability by training students to extend the life of industrial machinery, reduce waste, and adopt circular economy principles.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Machinery and Equipment for Oil and Gas Production</h3>
+        <p>ASOIU's Oil-Gas Machinery specialty supports sustainability by training students to design and operate energy-efficient extraction equipment that minimizes environmental impact, reduces waste, and optimizes resource use.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Machinery for Oil Refining and Oil Production</h3>
+        <p>ASOIU's Refining Machinery specialty supports sustainability by preparing students to optimize industrial processes, reduce emissions, and decrease waste in chemical and oil refining.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Oil-Gas Mining Geology</h3>
+        <p>ASOIU's Oil-Gas-Mining Geology specialty supports sustainability by educating students on responsible mining and geological survey methods, helping minimize environmental impact and optimize resource use.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Hydrogeology</h3>
+        <p>ASOIU's Hydrogeology specialty supports sustainability by focusing on sustainable groundwater monitoring, management, and protection, contributing directly to environmental sustainability and climate-resilient water systems.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #26BDE2;">Goal 6</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #56C02B;">Goal 15</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Geophysical Methods for Oil-Gas Exploration</h3>
+        <p>ASOIU's Geophysical Exploration specialty supports sustainability by teaching non-invasive, energy-efficient exploration methods that minimize environmental impact.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Robotics and Robotics Systems</h3>
+        <p>ASOIU's Robotics specialty supports sustainability by equipping students to design energy-efficient and environmentally friendly robotic systems for industry and research, decreasing energy consumption and emissions in robotic operations.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Artificial Intelligence</h3>
+        <p>ASOIU's AI specialty supports sustainability by preparing students to apply AI in energy optimization, environmental monitoring, and sustainable industrial processes, reducing environmental impact through smarter processes.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Applied Mathematics</h3>
+        <p>ASOIU's Applied Mathematics specialty supports sustainability by teaching students to model environmental processes, climate scenarios, and resource management for sustainable solutions.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #26BDE2;">Goal 6</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Informatics</h3>
+        <p>ASOIU's Informatics specialty supports sustainability by training students to develop data-driven solutions for environmental monitoring, energy efficiency, and sustainable computing.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Mobile App Development and Game Design</h3>
+        <p>ASOIU's Mobile App Development specialty supports sustainability by teaching students to create applications for environmental awareness, climate education, and sustainable behavior promotion.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #C5192D;">Goal 4</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Computer Engineering</h3>
+        <p>ASOIU's Computer Engineering specialty supports sustainability by preparing students to design energy-efficient computing systems and sustainable technology solutions.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Information Systems in Management</h3>
+        <p>ASOIU's Information Systems specialty supports sustainability by teaching students to optimize organizational processes, manage resources responsibly, and implement sustainable strategies.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Mechanics and Strength of Special Oil-Mining Equipment</h3>
+        <p>ASOIU's Equipment Mechanics specialty supports sustainability by teaching students to design durable machinery, reducing the need for frequent replacements and lowering material consumption.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Computer-Based Measurement and Information Technologies</h3>
+        <p>ASOIU's Measurement Technologies specialty supports sustainability by training students to monitor and optimize industrial processes, reducing energy use and material waste.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Electronics and Automation</h3>
+        <p>ASOIU's Electronics and Automation specialty supports sustainability by teaching students to develop energy-efficient automated systems that reduce waste and improve industrial sustainability.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>BioTechnical and Medical Devices and Systems</h3>
+        <p>ASOIU's Biotech Devices specialty supports sustainability by preparing students to design environmentally responsible medical devices that minimize waste and promote health.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #4C9F38;">Goal 3</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Automation of Technological Processes and Production</h3>
+        <p>ASOIU's Automation specialty supports sustainability by teaching students to implement low-waste, energy-efficient production systems that reduce industrial impact.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Energy Management</h3>
+        <p>ASOIU's Energy Management specialty supports sustainability by training students in energy efficiency, sustainable energy planning, and low-carbon technologies.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Reliability and Operational Efficiency of Offshore Oil-Gas Installations</h3>
+        <p>ASOIU's Offshore Reliability specialty supports sustainability by teaching students to operate marine installations safely and efficiently, minimizing environmental risk.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #0A97D9;">Goal 14</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Electrical Power Engineering</h3>
+        <p>ASOIU's Electrical Power Engineering specialty supports sustainability by teaching energy-efficient generation, renewable energy integration, and sustainable electricity system design.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Automation and Electrical Devices of Industrial Systems</h3>
+        <p>ASOIU's Industrial Automation specialty supports sustainability by designing energy-efficient automated industrial systems that reduce waste and environmental impact.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>High Voltage Engineering and Physics</h3>
+        <p>ASOIU's High Voltage Engineering specialty supports sustainability by improving electricity transmission efficiency, integrating renewable energy, and reducing energy losses.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Thermal Power Plants</h3>
+        <p>ASOIU's Thermal Power Plants specialty supports sustainability by teaching efficient thermal generation, emission reduction, and heat recovery methods.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Renewable Energy Sources</h3>
+        <p>ASOIU's Renewable Energy specialty directly supports sustainability by teaching solar, wind, hydro, and bioenergy systems, reducing carbon emissions and promoting clean energy transition.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Solid Waste Processing Technology</h3>
+        <p>ASOIU's Solid Waste Processing specialty supports sustainability by training students in sustainable waste management, recycling, and resource recovery practices.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD9D24;">Goal 11</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Metrology and Measurement Assurance</h3>
+        <p>ASOIU's Metrology specialty supports sustainability by teaching students to monitor industrial and energy processes accurately for efficiency and environmental compliance.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Quality Control, Diagnostic Methods and Systems</h3>
+        <p>ASOIU's Quality Control specialty supports sustainability by preparing students to monitor industrial processes for environmental responsibility and compliance.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Safety of Technological Processes in Emergencies</h3>
+        <p>ASOIU's Safety specialty supports sustainability by training students in risk management, environmentally safe industrial operations, and disaster resilience.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Economics and Management of Production and Services</h3>
+        <p>ASOIU's Economics and Management specialty supports sustainability by teaching students to plan resource-efficient production, implement sustainable strategies, and make environmentally responsible decisions.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Management</h3>
+        <p>ASOIU's Management specialty supports sustainability by training students to integrate sustainable decision-making, corporate social responsibility, and resource-efficient practices into organizations.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Business Organization and Management</h3>
+        <p>ASOIU's Business specialty supports sustainability by preparing students to operate environmentally conscious businesses and implement sustainable strategies.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Oil-Chemical Synthesis Technology</h3>
+        <p>ASOIU's Oil-Chemical Synthesis specialty supports sustainability by preparing students to develop low-waste chemical processes and environmentally responsible production methods.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Inorganic Material Production Technology</h3>
+        <p>ASOIU's Inorganic Material Technology specialty supports sustainability by training students to produce non-organic chemicals and materials using environmentally conscious techniques.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Oil Refining Technology</h3>
+        <p>ASOIU's Oil Refining specialty supports sustainability by equipping students with knowledge of energy-efficient, low-emission refining technologies.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>HydroCarbon Gas Processing Technology</h3>
+        <p>ASOIU's Gas Processing specialty supports sustainability by preparing students to implement sustainable, energy-efficient gas processing methods.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Polymer Chemical Technology</h3>
+        <p>ASOIU's Polymer Technology specialty supports sustainability by training students to synthesize environmentally friendly, recyclable polymers.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Processing of Polymers and Composite Materials</h3>
+        <p>ASOIU's Polymer Processing specialty supports sustainability by preparing students to manufacture polymers and composites using sustainable, low-impact methods.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Chemical Technology Processes and Equipment</h3>
+        <p>ASOIU's Chemical Technology specialty supports sustainability by teaching students to develop energy-efficient, low-waste chemical production processes.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="asoiu-master">
+    <div>
+        <div class="card-meta">ASOIU MASTER</div>
+        <h3>Environmental and Oil Industry</h3>
+        <p>ASOIU's Environment and Oil Industry specialty supports sustainability by preparing students to implement pollution control, environmental management, and sustainable industrial practices.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="#" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+
+<!-- UFAZ Bachelor Specialties -->
+
+<div class="course-card" data-category="ufaz-bachelor">
+    <div>
+        <div class="card-meta">UFAZ BACHELOR</div>
+        <h3>Computer Science</h3>
+        <p>UFAZ's Computer Science program drives sustainability by training students in AI, software engineering, and cybersecurity, which are essential for building resilient digital infrastructure and optimizing resource use (SDG 9 and 12). The curriculum's applications in healthcare and genome research directly support global well-being (SDG 3), while its focus on data science and automation helps reduce the carbon footprint of modern industry (SDG 13)</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #4C9F38;">Goal 3</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/undergraduate-programs/bsc-computer-science/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-bachelor">
+    <div>
+        <div class="card-meta">UFAZ BACHELOR</div>
+        <h3>Chemical Engineering</h3>
+        <p>UFAZ's Chemical Engineering program supports sustainability by training students to optimize industrial processes for maximum efficiency and safety, directly advancing SDG 9 and 12. By utilizing advanced simulation tools to reduce waste and energy consumption, the curriculum prepares graduates to lead environmental engineering and green chemistry initiatives (SDG 13).</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/undergraduate-programs/bsc-chemical-engineering/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-bachelor">
+    <div>
+        <div class="card-meta">UFAZ BACHELOR</div>
+        <h3>Chemistry</h3>
+        <p>UFAZ's Chemistry program supports sustainability by providing advanced training in chemical analysis and experimental protocols, which are essential for developing sustainable materials and reducing industrial waste (SDG 9 and 12). Through its focus on environmental chemistry and biotechnology, the curriculum prepares graduates to address ecological challenges and promote resource efficiency (SDG 13).</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/undergraduate-programs/chemistry/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-bachelor">
+    <div>
+        <div class="card-meta">UFAZ BACHELOR</div>
+        <h3>Petroleum Engineering and Reservoir Geology</h3>
+        <p>UFAZ's Petroleum Engineering &amp; Reservoir Geology program supports sustainability by optimizing hydrocarbon extraction through advanced reservoir evaluation and drilling technologies that prioritize environmental safety (SDG 9 and 12). The curriculum's emphasis on production monitoring and safety engineering, taught by international industry experts, ensures the prevention of environmental hazards during energy production (SDG 13).</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/undergraduate-programs/bsc-oil-and-gas-engineering/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-bachelor">
+    <div>
+        <div class="card-meta">UFAZ BACHELOR</div>
+        <h3>Geophysics and Geology Engineering</h3>
+        <p>UFAZ's Geology, Geosciences and Georesources program supports sustainability by providing the scientific and technical foundation necessary for the responsible management of Earth's natural systems (SDG 15). Through the study of geophysical methods and subsurface conditions, students learn to identify renewable energy sources like geothermal energy and optimize the extraction of minerals essential for green technologies (SDG 7 and 13).</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #56C02B;">Goal 15</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/undergraduate-programs/bsc-geophysical-engineering/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+
+<!-- UFAZ Master Specialties -->
+
+<div class="course-card" data-category="ufaz-master">
+    <div>
+        <div class="card-meta">UFAZ MASTER</div>
+        <h3>Physical Chemistry</h3>
+        <p>The Master's program in Physical Chemistry and Chemical Engineering at UFAZ supports sustainability by integrating Chemoinformatics and Analytical Chemistry to optimize industrial processes and reduce environmental impact (SDG 9 and 12). By mastering research methodologies and advanced experimental skills, students are equipped to develop innovative, resource-efficient materials and cleaner chemical technologies (SDG 13)</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #FD6925;">Goal 9</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #BF8B2E;">Goal 12</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/graduate-programs/physical-chemistry-and-chemical-engineering/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-master">
+    <div>
+        <div class="card-meta">UFAZ MASTER</div>
+        <h3>Data Science and Artificial Intelligence</h3>
+        <p>The Data Science and Artificial Intelligence program supports the United Nations Sustainable Development Goals, particularly SDG 4: Quality Education by providing advanced, practical learning opportunities, SDG 8: Decent Work and Economic Growth by preparing highly skilled professionals for the digital economy, and SDG 9: Industry, Innovation and Infrastructure through training in cutting-edge technologies like artificial intelligence and big data. The program combines theoretical knowledge with hands-on experience using high-performance computing systems, ensuring students are industry-ready and innovation-driven. Graduates contribute to sustainable development by advancing technology, supporting economic growth, and fostering innovation in various sectors.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #C5192D;">Goal 4</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #A21942;">Goal 8</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FD6925;">Goal 9</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/graduate-programs/msc-data-sciences-and-artificial-intelligence/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-master">
+    <div>
+        <div class="card-meta">UFAZ MASTER</div>
+        <h3>GeoSciences</h3>
+        <p>The Geophysical Engineering program focuses on modeling physical and chemical processes within the Earth, offering specialization in natural underground resources or advanced numerical modeling with AI applications in Earth sciences. It provides strong theoretical and practical training in geology, geophysics, and geochemistry, while developing analytical, mathematical, and multidisciplinary problem-solving skills. The program supports the United Nations Sustainable Development Goals, especially SDG 4: Quality Education, SDG 7: Affordable and Clean Energy, and SDG 13: Climate Action by preparing experts to responsibly manage natural resources and address environmental challenges.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #C5192D;">Goal 4</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #FCC30B;">Goal 7</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/graduate-programs/msc-geosciences/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+<div class="course-card" data-category="ufaz-master">
+    <div>
+        <div class="card-meta">UFAZ MASTER</div>
+        <h3>Water Resources Management</h3>
+        <p>The Water Resources and Management program focuses on analyzing and managing water systems through a multidisciplinary approach, combining hydrogeology, water quality assessment, and sustainable decision-making. It equips students with practical and analytical skills in data analysis, modeling, project management, and environmental problem-solving, preparing them for careers in research, industry, and public institutions. The program supports the United Nations Sustainable Development Goals, particularly SDG 4: Quality Education, SDG 6: Clean Water and Sanitation, and SDG 13: Climate Action by promoting sustainable water management and addressing environmental challenges.</p>
+        <p class="mb-0">
+            <span class="fw-bold me-2">SDG Alignment:</span>
+            <span class="fw-bold" style="color: #C5192D;">Goal 4</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #26BDE2;">Goal 6</span><span class="text-muted mx-1">|</span><span class="fw-bold" style="color: #3F7E44;">Goal 13</span>
+        </p>
+        <p class="mb-0">
+            <a href="https://www.ufaz.az/en/academic-offer/graduate-programs/msc-water-resources-and-management/" target="_blank" class="fw-bold small text-decoration-none d-inline-flex align-items-center" style="color: #e4cacd44;">
+                <span class="me-1">View Curriculum</span> &rarr;
+            </a>
+        </p>
+    </div>
+</div>
+
+    </div>
